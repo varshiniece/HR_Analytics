@@ -1,0 +1,34 @@
+Human Resource Dataset is shared from a client for reporting.
+The company behind the data is called Techic, which was established in 2010. 
+The organisation is divided into five departments, with employees sitting across Europe, Latin America and the USA. 
+It also contains information on salary, gender and more.
+
+##################### Data Extraction and Loading #################################### Phase  - 01
+
+1. Dataset till 2010-2017 is shared
+2. Proper Data Cleaning is required in the Excel - Missing Value, Wrong spellings, Proper Date format
+3. Create a folder in your system  - as HR Data
+	1. Inside that folder create two folders - Raw and Cleaned Data
+	Put the actual data in the raw folder and cleaned data in the cleaned folder.
+	Also create a Meta Data of the File and put it in the Cleaned Folder.
+4. Uplaod the Clean folder in your respective Google Drive.
+5. Connect with Tableau as Google Sheet and Connect the sheet which is kept in your Google Drive
+
+############################ Data Connection and Analysis ############################## Phase - 02
+
+1. Once the data is connected - Use Data Interpreter in Tableau for Cleaning of Column headers.
+2. Create a Dashboard and Use Text to prepare the question which can be analysed from the data.
+		1. Questions realted to KPIs
+		2. Employee, Dept, Country, Gender wise Analysis
+		3. Date hierarchy wise Analysis etc...
+		4. MTD,QTD, YTD analysis has to be researched and has to be created.
+3. As many Dashboard can be created but proper storyline behind the dashboard should be necessary.
+4. Color should be in one color format for better dashboarding view and proper user experience is required.
+
+
+####################### New Data Updated  ################################# Phase - 03
+
+1. Data for 2018, 2019,2020,2021,2022 will be shared in incremental basis.
+2. The data needs to be appended in the clean data (please make a copy of the clean data and then append), refresh the dashboard
+3. Output should be validated with everyone make sure you save the previous versions of the data till 2017, after that year wise year in your tableau public.
+4. Proper documentation has to be done in the word with proper methodology, flow and steps.
